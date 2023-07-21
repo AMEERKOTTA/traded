@@ -1,2 +1,2 @@
 # **traded**
-### The Perfect Trading Platform for all Financial Markets.
+### The Trading Platform for all Financial Markets.
