@@ -1,4 +1,4 @@
 # **traded**
 ## The Trading Platform for all Financial Markets. 
-# collect Daily Indian Stock Data.
+# collect Daily Indian Stock Data. 
 # 
