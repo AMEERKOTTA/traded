@@ -1,4 +1,4 @@
 # **traded**
-## Developing Trading Models
+## Trading Models
 # 
 # 
