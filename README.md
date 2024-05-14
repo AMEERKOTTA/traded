@@ -1,5 +1,2 @@
 # **traded**
 ## Trading Models
-#  
-# 
-#
