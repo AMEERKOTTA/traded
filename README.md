@@ -1,1 +1,1 @@
-# **traded**
+# **tradeAI**
