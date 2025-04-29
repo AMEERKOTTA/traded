@@ -1,4 +1,3 @@
 # **tradeAI**
  
 ### Data Ingestion Layer
-
